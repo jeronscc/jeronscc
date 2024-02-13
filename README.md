@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=t4mymdstafxi5okftsl52f4ts&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="400" />
 
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/800px-Stack_Overflow_logo.svg.png" />
 
 
 </div>
