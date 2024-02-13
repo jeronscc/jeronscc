@@ -1,6 +1,5 @@
-# Hi, I am Jeron aka ryujin! 
+<img align="right" alt="GIF" height="50px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> # Hi, I am Jeron aka ryujin! 
 
-<img align="right" alt="GIF" height="50px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 
