@@ -27,7 +27,9 @@ Here are some ideas to get you started:
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=t4mymdstafxi5okftsl52f4ts&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="400" />
 
 
-  <img src="https://iamsouravbanerjee.github.io/images/Stack_Overflow_Tag_Prediction_Banner.png" width="300" />
+  <img src="https://iamsouravbanerjee.github.io/images/Stack_Overflow_Tag_Prediction_Banner.png" width="350" />
+  
+  <img alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" height="120"/>
 
 
 </div>
