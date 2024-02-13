@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
 Hi, I am Jeron!
-</h3>
+</h2>
 
 <p> I'm a passionate student exploring the exciting world of IT Industry. Eager to learn and grow, I am currently and actively working on expanding my skills in Web Development & Programming. </p>
 
