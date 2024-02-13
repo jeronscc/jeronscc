@@ -3,7 +3,7 @@
   <h1>Hi, I am Jeron!</h1>
 </div>
 
-I'm a passionate student exploring the exciting world of IT Industry. Eager to learn and grow, I am currently and actively working on expanding my skills in `Business Aanalystics, Web Development, and Programming`
+I'm a passionate student exploring the exciting world of IT Industry. Eager to learn and grow, I am currently and actively working on expanding my skills in `Business Aanalystics`, `Web Development`, and `Programming`
 
 
 <!--
