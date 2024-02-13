@@ -1,8 +1,7 @@
-<div align-items="center">
-<img align="left" alt="GIF" height="50px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/> 
-<h1> Hi, I am Jeron aka ryujin! <h1/>
-<div/>
-
+<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
+  <img align="left" alt="GIF" height="50px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/> 
+  <h1>Hi, I am Jeron aka ryujin!</h1>
+</div>
 
 
 
