@@ -1,6 +1,7 @@
-<h2 align="center">
-Hi, I am 'Jeron'!
-</h2>
+
+# Hi, I am 'Jeron'!
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <p> I'm a passionate student exploring the exciting world of IT Industry. Eager to learn and grow, I am currently and actively working on expanding my skills in Web Development & Programming. </p>
 
@@ -22,4 +23,4 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=t4mymdstafxi5okftsl52f4ts&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="400">
 </p>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
