@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 
 <div style="display: flex; justify-content: space-between; align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=t4mymdstafxi5okftsl52f4ts&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" height="160" width="550" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=t4mymdstafxi5okftsl52f4ts&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="450" />
   <img align="center" alt="GIF" height="50px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/> 
 </div>
