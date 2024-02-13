@@ -1,4 +1,4 @@
-<img align="left" alt="GIF" height="50px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/> <h3>Hi, I am Jeron aka ryujin! <h3/>
+<img align="left" alt="GIF" height="50px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/> <h1> Hi, I am Jeron aka ryujin! <h1/>
 
 
 
