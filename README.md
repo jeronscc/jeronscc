@@ -1,6 +1,6 @@
-<p align="center">
-### Hi, I am Jeron!
-</p>
+<h3 align="center">
+ Hi, I am Jeron!
+</h3>
 
 
 <!--
