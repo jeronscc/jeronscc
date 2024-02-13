@@ -1,7 +1,7 @@
 
-# Hi, I am 'Jeron'!
+# Hi, I am Jeron! <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 <p> I'm a passionate student exploring the exciting world of IT Industry. Eager to learn and grow, I am currently and actively working on expanding my skills in Web Development & Programming. </p>
 
