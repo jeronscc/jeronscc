@@ -1,6 +1,6 @@
 # Hi, I am Jeron aka ryujin!
 
-<div style="float: right; margin-left: 20px;">
+<div style="float: right; margin-left: 100px;">
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </div>
 
