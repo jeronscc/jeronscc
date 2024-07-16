@@ -33,6 +33,6 @@ Here are some ideas to get you started:
   <a/>
     
   <a href="https://www.linkedin.com/in/jeron-cansanay-599a2a319/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALinkedIn_Logo_2013.svg&psig=AOvVaw1VjCKqUzakb1wvg8gRAmwx&ust=1721209372525000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjRzf2iq4cDFQAAAAAdAAAAABAb" width="300" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMjR7gx6W5-B-hglc98RYENcZeIrSg0t6aA&s" width="300" />
   <a/>
 </div>
