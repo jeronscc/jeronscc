@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 
 <div style="display: flex; justify-content: center;">
-  
-  <img alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" height="120"/>
+
   
   
 
